@@ -11,6 +11,7 @@
 		8BD47DFA2A61990600D00064 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD47DF92A61990600D00064 /* ContentView.swift */; };
 		8BD47DFC2A61990900D00064 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BD47DFB2A61990900D00064 /* Assets.xcassets */; };
 		8BD47DFF2A61990900D00064 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BD47DFE2A61990900D00064 /* Preview Assets.xcassets */; };
+		8BE553772A622BF8008446C1 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BE553762A622BF8008446C1 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		8BD47DFB2A61990900D00064 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8BD47DFE2A61990900D00064 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8BD47E002A61990900D00064 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8BE553762A622BF8008446C1 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				8BD47DF72A61990600D00064 /* NavigstionStackApp.swift */,
 				8BD47DF92A61990600D00064 /* ContentView.swift */,
+				8BE553762A622BF8008446C1 /* SecondView.swift */,
 				8BD47DFB2A61990900D00064 /* Assets.xcassets */,
 				8BD47E002A61990900D00064 /* Info.plist */,
 				8BD47DFD2A61990900D00064 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BE553772A622BF8008446C1 /* SecondView.swift in Sources */,
 				8BD47DFA2A61990600D00064 /* ContentView.swift in Sources */,
 				8BD47DF82A61990600D00064 /* NavigstionStackApp.swift in Sources */,
 			);

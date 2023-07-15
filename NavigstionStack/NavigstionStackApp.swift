@@ -12,6 +12,7 @@ struct NavigstionStackApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            SecondView()
         }
     }
 }
